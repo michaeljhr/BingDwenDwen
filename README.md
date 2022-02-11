@@ -1,4 +1,4 @@
-# BingDwenDwen
+# Bing Dwen Dwen
 Using Python and Turtle library to create the Olympic Mascot of Beijing 2022 - Bing Dwen Dwen
 
 You can adjust the drawing speed my clicking into Main.py and find ```turtle.speed(10)``` on line 5.
