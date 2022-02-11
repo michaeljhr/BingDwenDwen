@@ -2,7 +2,7 @@ import turtle
 
 turtle.title('Bing Dwen Dwen')
 
-turtle.speed(100)  # drawing speed
+turtle.speed(10)  # drawing speed
 
 # left hand
 turtle.penup()
